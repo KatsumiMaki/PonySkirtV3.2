@@ -1,0 +1,14 @@
+==THANK YOU FOR PURCHASING THE BIPEDAL PONY==
+
+•This is the PC VRChat version, it will need some files in order to work:
+	1 - VRCSDK (2022.07.26.21.45) or newer
+get it here: https://vrchat.com/home/download
+
+	2 - Poiyomi Toon 8.0.4 or newer
+get it here: https://github.com/poiyomi/PoiyomiToonShader/releases
+
+!Import these files in order to be able to upload your avatar correctly!
+
+
+•Special Thanks:
+- HickySnow for the magic shader for the unicorn horns

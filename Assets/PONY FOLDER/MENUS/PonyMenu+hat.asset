@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: PonyMenu+hat
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Clothes
+    icon: {fileID: 2800000, guid: 88ec3b0a29e538649b284b572c5966ce, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 9245ddfbe824d1e46be2cce60dd55f9e, type: 2}
+    subParameters: []
+    labels: []
+  - name: Wings
+    icon: {fileID: 2800000, guid: 983b92734754dbd40b306256b1b10f61, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 052f9e065c5951540844edb2bff7a6a6, type: 2}
+    subParameters: []
+    labels: []
+  - name: Horn
+    icon: {fileID: 2800000, guid: e0510bec9a6c58d43899fad1feee4b6d, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 34a42d04af925154a98fab10f4314cf4, type: 2}
+    subParameters: []
+    labels: []
+  - name: Hand/Hooves
+    icon: {fileID: 2800000, guid: 75c9e1b39da318c459c663c0941997f6, type: 3}
+    type: 102
+    parameter:
+      name: HandToggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: HAT
+    icon: {fileID: 2800000, guid: e3a64d77dda169445b13039262bc94aa, type: 3}
+    type: 102
+    parameter:
+      name: Hat
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
